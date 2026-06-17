@@ -1,8 +1,8 @@
-# Student Grade Tracker Pro
+# Student Grade Tracker 
 
 ## 📌 Project Overview
 
-Student Grade Tracker Pro is a Java Swing-based desktop application developed to manage and analyze student academic performance. The system allows users to add, search, update, and delete student records while automatically calculating total marks, average marks, grades, rankings, and performance statistics.
+Student Grade Tracker is a Java Swing-based desktop application developed to manage and analyze student academic performance. The system allows users to add, search, update, and delete student records while automatically calculating total marks, average marks, grades, rankings, and performance statistics.
 
 This project was developed as part of the CodeAlpha Java Programming Internship and demonstrates the implementation of Object-Oriented Programming (OOP), Java Swing GUI, ArrayLists, JTable, and data management techniques.
 
@@ -63,7 +63,7 @@ This project was developed as part of the CodeAlpha Java Programming Internship 
 ## 📂 Project Structure
 
 ```text
-StudentGradeTrackerPro
+StudentGradeTracker
 │
 ├── Student.java
 ├── StudentManager.java
@@ -189,7 +189,7 @@ The application provides:
 
 Developed as a Java Internship Project for CodeAlpha.
 
-Project Name: Student Grade Tracker Pro
+Project Name: Student Grade Tracker
 
 Language: Java
 
